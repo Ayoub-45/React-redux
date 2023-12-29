@@ -1,6 +1,6 @@
 import React from "react";
-import Cart from "./Cart";
-import "./Header.css";
+import Cart from "../cart/cart.component";
+import "./header.styles.css";
 const Header = () => {
   return (
     <header>
